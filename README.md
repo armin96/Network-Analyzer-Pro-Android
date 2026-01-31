@@ -1,6 +1,10 @@
 # 📡 Network Analyzer Pro
 ### A Professional Wireless Diagnostic Suite for Android
 
+
+
+
+
 Developed by **Armin Largani** *Computer Science Master's Student | Berlin, Germany*
 
 ---
@@ -11,7 +15,7 @@ Developed by **Armin Largani** *Computer Science Master's Student | Berlin, Germ
 This project demonstrates advanced proficiency in **Jetpack Compose**, **Android Core APIs**, and **Reactive UI State Management**.
 
 ---
-
+![6ea86853-59ae-4d06-bb14-c917f69b6fa0](https://github.com/user-attachments/assets/8e5bcc53-620f-4e33-929c-078138c8080a)
 ## ✨ Key Features
 
 ### 🔍 WiFi Intelligence
