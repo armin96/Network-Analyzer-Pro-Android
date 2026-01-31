@@ -5,7 +5,7 @@
 
 
 
-Developed by **Armin Largani** *Computer Science Master's Student | Berlin, Germany*
+Developed by **Armin Largani** 
 
 ---
 
