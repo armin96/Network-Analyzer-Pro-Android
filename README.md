@@ -5,7 +5,7 @@
 
 
 
-Developed by **Armin Largani** 
+Developed by **Armin Largan** 
 
 ---
 
